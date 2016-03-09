@@ -6,6 +6,14 @@ puts "yei"
 
 # platzi :  `<main>': undefined local variable or method `platzi' for main:Object (NameError)
 
-nombre_del_curso = "Curso Ruby"
 
-puts nombre_del_curso
+
+def welcome 
+    
+nombre_del_curso = "Curso Ruby"
+nombre = "Arturo"
+	puts " Hola #{nombre}! bienvenido #{nombre_del_curso} "
+
+end 
+
+welcome
