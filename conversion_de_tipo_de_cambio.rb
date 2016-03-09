@@ -1,7 +1,7 @@
 puts "Cuantos dolares desea cambiar ?"
 dolares = gets.to_f
 
-puts="A cuanto esta el cambio?"
+puts "A cuanto esta el cambio?"
 cambio = gets.to_f
 
 
