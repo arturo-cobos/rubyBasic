@@ -1,4 +1,7 @@
+
 class Superheroe
+attr_reader :debilidad
+attr_writer :debilidad
 attr_accessor :nombre, :energia, :superpoder
 	@@all = []
 def self.all
