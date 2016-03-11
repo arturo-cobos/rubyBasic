@@ -30,3 +30,5 @@ alumno.nunca_muere
 spiderman = Superheroe.new
 
 puts Superheroe.all.size
+puts Alumno.all.size
+
